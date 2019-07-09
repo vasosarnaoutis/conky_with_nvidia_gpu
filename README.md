@@ -19,6 +19,9 @@ To start conky with the computer start-up follow an online guide that is specifi
 
 The file works and was designed for Ubuntu 18.04 , CPU: Ryzen 2070x, GPU: Nvidia RTX 2070, G.skill RAM
 
+![conky_image](https://user-images.githubusercontent.com/50516589/60893115-9a40aa00-a260-11e9-9e1e-f416e32f1675.png)
+
+
 # Future inclusions
 
 Fan Speed for each Fan
